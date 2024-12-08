@@ -83,7 +83,7 @@ const Main = () => {
                         </div>
                     </div>
                     <p className="bottom-info">
-                        Gemini may display inaccurate info, including about people, so double heck its response.
+                        Made By Kuldeep Sahoo @2024
                     </p>
                 </div>
             </div>
